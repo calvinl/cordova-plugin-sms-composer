@@ -1,5 +1,4 @@
-cordova-ios-social-composer
+cordova-ios-sms-composer
 =========================
 
-Native plugin for iOS 6+'s Social Framework for composing Tweets and FB
-messages.
+Native plugin for iOS iMessage/messages composer
