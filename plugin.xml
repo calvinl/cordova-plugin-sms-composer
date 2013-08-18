@@ -8,7 +8,7 @@
   <author>Calvin Lai</author>
   <description>Enables native SMS/iMessage composer for iOS based Cordova apps.</description>
 
-  <js-module src="www/social-composer.js" name="SmsComposer">
+  <js-module src="www/sms-composer.js" name="SmsComposer">
     <clobbers target="plugins.smsComposer" />
   </js-module>
 
