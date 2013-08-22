@@ -1,5 +1,5 @@
 //
-//  SmsCompser.h
+//  SmsComposer.h
 //  Helper
 //
 //  Created by Calvin Lai on 7/17/13.
@@ -11,7 +11,7 @@
 #import <MessageUI/MessageUI.h>
 #import <MessageUI/MFMessageComposeViewController.h>
 
-@interface SmsCompser : CDVPlugin <MFMessageComposeViewControllerDelegate> {
+@interface SmsComposer : CDVPlugin <MFMessageComposeViewControllerDelegate> {
 
 	NSMutableDictionary* callbackIds;
 //    NSString * phoneNumber;

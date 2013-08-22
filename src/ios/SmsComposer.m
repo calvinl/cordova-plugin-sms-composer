@@ -11,7 +11,7 @@
 #import <Cordova/CDVDebug.h>
 
 
-@implementation SmsCompser
+@implementation SmsComposer
 
 @synthesize callbackIds = _callbackIds;
 
