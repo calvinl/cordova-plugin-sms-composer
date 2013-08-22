@@ -1,17 +1,17 @@
 //
-//  SMSComposer.m
+//  SmsComposer.m
 //  Helper
 //
 //  Created by Calvin Lai on 7/17/13.
 //
 //
 
-#import "SMSComposer.h"
+#import "SmsComposer.h"
 #import <Cordova/CDVViewController.h>
 #import <Cordova/CDVDebug.h>
 
 
-@implementation SMSComposer
+@implementation SmsCompser
 
 @synthesize callbackIds = _callbackIds;
 
